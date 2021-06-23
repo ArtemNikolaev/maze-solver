@@ -1,0 +1,16 @@
+{
+  "name": "maze",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "keywords": [],
+  "author": "Artem Nikolaev <artem@nikolaev.by>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.5",
+    "prettier": "^2.3.1"
+  }
+}
